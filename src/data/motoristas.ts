@@ -24,6 +24,6 @@ export const motoristasResende: MotoristaItem[] = [
   { nome: "ROMULO", cidade: "PORTO REAL" },
   { nome: "MATHEUS", cidade: "QUATIS" },
   { nome: "JANAINA", cidade: "ITATIAIA" },
-  { nome: "CARLOS EDUARDO", cidade: "ENG PASSOS" },
-  { nome: "JANAINA", cidade: "VISCONDE DE MAUA" }
+  { nome: "ENG PASSOS", cidade: "CARLOS EDUARDO" },
+  { nome: "VISCONDE DE MAUA", cidade: "JANAINA" }
 ];
